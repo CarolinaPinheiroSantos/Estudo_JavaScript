@@ -1,0 +1,17 @@
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.card{
+    border: 0.15rem solid black;
+    border-radius: 2rem;
+    padding: 1rem;
+    width: 15rem;
+    cursor: pointer;
+}
+
+.card img{
+    height: 15rem;
+}
